@@ -53,3 +53,4 @@ if st.button("Compute Cayley–Hamilton"):
 
     except Exception as e:
         st.error(f"Error: {e}")
+
